@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Personal Projects<br>🤝 I’m looking for help with developers<br>🌱 I’m currently learning JavaScript<br>💬 Ask me about coding and crypto<br>
+🔭 I’m currently working on Personal Projects<br>🤝 I’m looking for help with developers<br>🌱 I’m currently Practicing Frontend<br>💬 Ask me about coding and crypto<br>
 
 
 ## 🌐 Socials:
